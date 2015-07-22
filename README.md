@@ -1,3 +1,12 @@
+Improvements made for 3rd submission:
+
+  1. Compressed the pizzaria.jpg in index.html and tested the pageSpeed using google pageSpeed insights and got 96/100.
+  2. Thanks to the reviewer's comment that I fixed the pizza resizing problem in views/main.js.
+  3. Replaced some querySelector with getElementByID in views/main.js.
+  4. Tested the fps and time for resizing pizza, both of which are well within the time limit!
+
+
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
